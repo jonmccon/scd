@@ -1,5 +1,5 @@
 ---
-title: "Studio Name"
+title: "A Studio Name"
 date: "2019-05-04"
 site: "http://url.com"
 tags: "print, branding, size"
